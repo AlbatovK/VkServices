@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">VK Проекты</string>
-    <string name="list_fragment_label">VK проекты</string>
+    <string name="app_name">Проекты VK</string>
+    <string name="list_fragment_label">Проекты VK</string>
 </resources>
