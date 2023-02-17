@@ -5,9 +5,9 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.navArgs
 import coil.load
-import com.albatros.olimp.presentation.MainActivity
 import com.albatros.olimp.R
 import com.albatros.olimp.databinding.FragmentDetailBinding
+import com.albatros.olimp.presentation.MainActivity
 import dagger.hilt.android.AndroidEntryPoint
 
 

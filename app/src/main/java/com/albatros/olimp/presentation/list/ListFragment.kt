@@ -20,8 +20,8 @@ class ListFragment : Fragment(R.layout.fragment_list), OnItemClickListener {
     private var retrySnackbar: Snackbar? = null
 
     override fun onItemClick(service: VkService) {
-       val direction = ListFragmentDirections.actionListFragmentToDetailFragment(service)
-       findNavController().navigate(direction)
+        val direction = ListFragmentDirections.actionListFragmentToDetailFragment(service)
+        findNavController().navigate(direction)
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

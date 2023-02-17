@@ -1,7 +1,7 @@
 package com.albatros.olimp.domain.module
 
-import com.albatros.olimp.domain.repo.VkServiceRepositoryImpl
 import com.albatros.olimp.data.repo.VkServiceRepository
+import com.albatros.olimp.domain.repo.VkServiceRepositoryImpl
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn

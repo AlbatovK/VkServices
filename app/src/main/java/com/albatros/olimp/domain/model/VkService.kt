@@ -10,4 +10,4 @@ data class VkService(
     val iconUrl: String,
     val name: String,
     val serviceUrl: String
-): Parcelable
+) : Parcelable
